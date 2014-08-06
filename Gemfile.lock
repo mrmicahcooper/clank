@@ -8,6 +8,7 @@ GEM
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
+    sass (3.2.19)
     shotgun (0.9)
       rack (>= 1.0)
     sinatra (1.4.5)
@@ -22,5 +23,6 @@ PLATFORMS
 DEPENDENCIES
   haml
   puma
+  sass
   shotgun
   sinatra
